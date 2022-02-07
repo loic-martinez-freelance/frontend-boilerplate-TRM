@@ -1,6 +1,5 @@
 import { Box, Button, Typography } from '@mui/material'
 import { useNavigate } from 'react-router-dom'
-import Topbar from '../Components/Topbar'
 
 const Error = () => {
   const navigate = useNavigate()
